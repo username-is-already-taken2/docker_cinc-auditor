@@ -6,7 +6,7 @@ This was based on the [original](https://raw.githubusercontent.com/inspec/inspec
 It's been amended to tweak the container size and swap out the binaries for the [cinc](https://cinc.sh) version [cinc-auditor](https://github.com/cinc-project/auditor)
 
 # WARNING 
-## As of this writing only cinc-auditor has not been formally evaluated for compliance. Use of this binary should be used only for testing at this time.
+## cinc-auditor has not been formally evaluated by chef for compliance. Use of this binary should be used only for testing at this time.
 
 ## Usage
 This is being published to docker hub ....
